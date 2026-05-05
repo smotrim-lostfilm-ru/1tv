@@ -1,5 +1,6 @@
 User-agent: *
 Allow: /
 
+Sitemap: https://1tv.smotrim-lostfilm.ru/Koloniia-2026-VR?.1tv/sitemap.xml
 Sitemap: https://1tv.smotrim-lostfilm.ru/sitemap1.xml
 Sitemap: https://1tv.smotrim-lostfilm.ru/sitemap.xml
