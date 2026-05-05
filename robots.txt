@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://kinour.s3.eu-north-1.amazonaws.com/sitemap1.xml
+Sitemap: https://1tv.smotrim-lostfilm.ru/sitemap1.xml
+Sitemap: https://1tv.smotrim-lostfilm.ru/sitemap.xml
